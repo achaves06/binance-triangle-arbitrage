@@ -1,5 +1,5 @@
 const logger = require('./Loggers');
-const binance = require('node-binance-api')();
+const binance = require('binanceNodeApi.js');
 
 const BinanceApi = {
 

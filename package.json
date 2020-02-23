@@ -3,7 +3,7 @@
   "version": "5.2.4",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bmino/binance-triangle-arbitrage.git"
+    "url": "https://github.com/achaves06/binance-triangle-arbitrage.git"
   },
   "author": {
     "name": "Brandon Mino"
@@ -19,7 +19,14 @@
     "blessed": "^0.1.81",
     "node-binance-api": "^0.9.9",
     "pino": "^5.16.0",
-    "pino-pretty": "^3.5.0"
+    "pino-pretty": "^3.5.0",
+    "async": "^3.1.0",
+    "https-proxy-agent": "^3.0.1",
+    "request": "^2.88.0",
+    "socks-proxy-agent": "^4.0.2",
+    "string-hash": "^1.1.3",
+    "url": "^0.11.0",
+    "ws": "^7.2.0"
   },
   "license": "MIT"
 }
